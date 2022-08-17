@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quantum Assignment</string>
+    <string name="text_amp_condition"><u><![CDATA[text & condition]]></u></string>
+</resources>
